@@ -27,13 +27,13 @@
 ## 🌌 About Me
 
 ```yaml
-name       : Jay Parmar
-location   : Bhilai, Chhattisgarh 🇮🇳
-education  : B.Tech CSE (Data Science) @ CSVTU
-semester   : 3rd Semester (2024 – Present)
-focus      : AI/ML · Analytics · Strategy · Leadership
-ambition   : Strategy, Analytics & Leadership Roles
-email      : jaydeepak2532006@gmail.com
+Name       : Jay Parmar
+Location   : Bhilai, Chhattisgarh 🇮🇳
+Education  : B.Tech CSE (Data Science) @ CSVTU
+Semester   : 4th Semester (2024 – Present)
+Focus      : AI/ML · Analytics · Strategy · Leadership
+Ambition   : Strategy, Analytics & Leadership Roles
+Email      : jaydeepak2532006@gmail.com
 ```
 
 - 🏆 **1st Place** — PackEdge 2025, **IIT Bombay** Techfest *(Asia's Largest)*
